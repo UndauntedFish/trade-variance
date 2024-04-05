@@ -11,7 +11,9 @@ This helps the trader comprehend the probabilistic variance created by executing
 3. More on how to calculate/use R multiples here: https://stonkjournal.com/a-guide-to-r-multiple-and-risk-management/
 
 ## Example of Usage 
-Say that I'm a trader and I want to see the kind of P/L swings my strategy can put me through. I compile my trade history into a CSV file, upload the CSV file into trade-sim.exe, and then let the simulation run.
+Say that I'm a trader and I want to see the kind of P/L swings my strategy can put me through.
+
+I compile my trade history into a CSV file, upload the CSV file into trade-sim.exe, and then let the simulation run.
 
 ![PAMR_Results](https://github.com/UndauntedFish/trade-variance/assets/58181651/cbb20b43-3537-402c-91ec-13ad8c6e6369)
 Now I can see the potential spread of outcomes my strategy can take me through and get an idea of what my worst-case losing periods look like, how long they will last, and how to adjust my risk exposure to survive them.
