@@ -1,5 +1,7 @@
 # trade-variance
-Takes in a trader's trade history, and visualizes the entire potential distribution of returns. This helps the trader comprehend the probabilistic variance created by executing their trading strategy. It also helps differentiate between problematic losing streaks caused by trader error, and natural losing streaks caused by variance.
+Takes in a trader's trade history, and generates a chart that visualizes the potential distribution of that trader's returns.
+
+This helps the trader comprehend the probabilistic variance created by executing their trading strategy. It also helps differentiate between problematic losing streaks caused by trader error, and natural losing streaks caused by variance.
 
 ## Usage
 Download trade-sim.exe: https://www.dropbox.com/scl/fi/xfddyxp0xdtanz5i4uzk6/tradesim.exe?rlkey=cworj7o3x97ruw5sbi76e1bbr&dl=0
