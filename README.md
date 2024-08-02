@@ -13,5 +13,6 @@ This helps the trader comprehend the probabilistic variance created by executing
 ## Example of Usage 
 If a trader wanted to see the kind of P/L swings executing their trades will put them through over a large sample size, they can upload their current trade log into trade-sim.exe and generate a visualization to show that.
 
-![PAMR_Results](https://github.com/UndauntedFish/trade-variance/assets/58181651/cbb20b43-3537-402c-91ec-13ad8c6e6369)
+![2xATR0 75xATR TC Extended - sd](https://github.com/user-attachments/assets/00c77c6d-0ffd-4cb2-b8bf-e89bea68343d)
+
 Now the trader can see the potential spread of outcomes of their trades over millions of trades, and get an idea of what their worst-case losing periods look like, how long they will last, and how to adjust their risk exposure to survive them.
