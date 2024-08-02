@@ -4,7 +4,7 @@ Takes in a trader's trade history, and generates a chart that visualizes the pot
 This helps the trader comprehend the probabilistic variance created by executing their trading strategy. It also helps differentiate between problematic losing streaks caused by trader error, and natural losing streaks caused by variance.
 
 ## Usage
-1. Download trade-sim.exe: https://www.dropbox.com/scl/fi/xfddyxp0xdtanz5i4uzk6/tradesim.exe?rlkey=cworj7o3x97ruw5sbi76e1bbr&dl=0
+1. Download trade-sim.exe: TBA
 
 2. Upload a CSV file containing the results of each trade in your system, expressed as an R multiple. The CSV file should follow the same format as [trades_data.csv](trades_data.csv).
 
