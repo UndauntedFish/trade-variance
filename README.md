@@ -15,4 +15,4 @@ If a trader wanted to see the kind of P/L swings executing their trades will put
 
 ![2xATR0 75xATR TC Extended - sd](https://github.com/user-attachments/assets/00c77c6d-0ffd-4cb2-b8bf-e89bea68343d)
 
-Now the trader can see the potential spread of outcomes of their trades over millions of trades, and get an idea of what their worst-case losing periods look like, how long they will last, and how to adjust their risk exposure to survive them.
+Now the trader can see the potential spread of outcomes of their trades over a large number of trades, and get an idea of what their worst-case losing periods look like, how long they will last, and how to adjust their risk exposure to survive them.
